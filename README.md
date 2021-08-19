@@ -6,7 +6,18 @@ Course-based Undergraduate Research Experience (CURE) in ecological niche modeli
 <!-- Links: -->
 
 -   [Practical "00" - Intro to `R`](https://github.com/justincbagley/ENM-CURE/blob/main/Practicals/Practical00_Intro_to_R.md)
--   Practical 01
+-   Practical 01 - Working with Biodiversity Data in `R`
+-   Practical 02 – Study Region / Accessible Area (M)
+-   Practical 03 – Working with Environmental Variables
+-   Practical 04 – Clipping Environmental Rasters 
+-   Practical 05 – Additional Data Cleaning
+-   Practical 06 – Predictors – Automated vs. Thoughtful Selection
+-   Practical 07 – MaxEnt
+-   Practical 08 – Bias Correction
+-   Practical 09 – Model Tuning
+-   Practical 10 – Model Evaluation 
+-   Practical 11 – Projecting to Different Time Periods or Regions
+
 
 
 # LICENSE
