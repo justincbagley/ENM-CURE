@@ -33,7 +33,7 @@ During Ecology Laboratory, we will walk through all of the main steps in using e
  - 3.2. [Printing](#32-printing)
  - 3.3. [Checking and Cleaning Your Environment](#33-checking-and-cleaning-your-environment)
  - 3.4. [Even More On Plotting Data](#34-even-more-on-plotting-data)
- 4. [Final Take-home Messages / Tips](#4-final-take-home-messages-tips)
+ 4. [Final Take-home Messages / Tips](#4-final-take-home-messages--tips)
  5. [References](#5-references)
 
 ---
