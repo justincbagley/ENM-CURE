@@ -5,7 +5,7 @@ Course-based Undergraduate Research Experience (CURE) in ecological niche modeli
 
 <!-- Links: -->
 
--   [Practical "00" - Intro to `R](https://github.com/justincbagley/ENM-CURE/blob/main/Practicals/Practical00_Intro_to_R.md)
+-   [Practical "00" - Intro to `R`](https://github.com/justincbagley/ENM-CURE/blob/main/Practicals/Practical00_Intro_to_R.md)
 -   Practical 01
 
 
