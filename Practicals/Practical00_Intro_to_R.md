@@ -83,7 +83,7 @@ Here is an image showing what your instructor's version of `RStudio` looks like,
 
 <img src="../assets/RStudio_white.png" alt="RStudio (light mode)"
 	title="Your Instructor's RStudio screen..." width="750" />
-<!-- https://github.com/justincbagley/ENM-CURE/blob/main/assets/RStudio_help_rnorm.png-->
+<!-- https://github.com/justincbagley/ENM-CURE/blob/main/assets/RStudio_white.png-->
 
 **Figure 1.**
 
@@ -127,7 +127,7 @@ hist(norm)
 
 <!--This is what it looks like:-->
 
-<img src="./RStudio_white_rnorm_plot.png" alt="RStudio (light mode)"
+<img src="../assets/RStudio_white_rnorm_plot.png" alt="RStudio (light mode)"
 	title="Plotting rnorm data in R (using RStudio) with a histogram." width="750" />
 
 **Figure 3**
@@ -171,7 +171,7 @@ Packages may generally be installed using the `install.packages()` function (**F
 
 Here is an example of installing a package in `R` using `install.packages()` and then loading the program with `library()`:
 
-<img src="./RStudio_install_MASS.png" alt="RStudio (light mode)"
+<img src="../assets/RStudio_install_MASS.png" alt="RStudio (light mode)"
 	title="An example of installing a package in R using 'install.packages()' and then loading the program with 'library()'." width="550" />
 
 **Figure 4.**
@@ -182,7 +182,7 @@ Sometimes `devtools` or other specialized packages (e.g. `remotes`) must be inst
 
 One of the best parts of using `R`, in general, is its overall good documentation, as well as intuitive and easy way that you can access help documents from the console. In `R` or `RStudio`, you can get help on packages and functions using the `help()` command, e.g. as in `help(rnorm)`, or simply by placing the `?` symbol before the name of the function/package. Try this yourself by typing `?rnorm` at the command prompt in `R` (as in **Fig. 5** below). You can obtain more general helpful information by using a double-question-mark symbol, `??` before a package or function, as in `??summary`.
 
-<img src="./RStudio_help_rnorm.png" alt="RStudio (light mode)"
+<img src="../assets/RStudio_help_rnorm.png" alt="RStudio (light mode)"
 	title="An example of using the help documentation in R." width="750" />
 
 **Figure 5.**
@@ -253,7 +253,7 @@ plot(x, y) # plot the result
 
 <!--This is what it looks like:-->
 
-<img src="./RStudio_white_dampening.png" alt="RStudio (light mode)"
+<img src="../assets/RStudio_white_dampening.png" alt="RStudio (light mode)"
 	title="Plotting data with complex dynamics (dampening oscillations) in R." width="750" />
 
 **Figure 6.**
@@ -351,7 +351,7 @@ df
 
 The above code will generate, among other things, the following 3-panel plot (**Fig. 7**) comparing the Fibonacci sequence to an exponential distribution:
 
-<img src="./RStudio_number_seqs_full_gui.png" alt="RStudio (light mode)"
+<img src="../assets/RStudio_number_seqs_full_gui.png" alt="RStudio (light mode)"
 	title="A 3-panel comparison of the first 10 Fibonacci numbers to a comparable exponential distribution in R." width="750" />
 
 **Figure 7.**
@@ -433,7 +433,7 @@ abline(lm(mpg ~ wt))
 title("Regression of MPG on Weight")
 ```
 
-<img src="./RStudio_mtcars.png" alt="RStudio (light mode)"
+<img src="../assets/RStudio_mtcars.png" alt="RStudio (light mode)"
 	title="Plotting the contents of the mtcars dataset in R, using a biplot." width="750" />
 
 **Figure 8.**
