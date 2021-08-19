@@ -268,7 +268,7 @@ and the **'Angel numbers'** (each number adding an additional numeral; in our ca
 them by plotting them. Then we will make a matrix containing the
 data we come up with.
 
-This exercise will introduce you to a variety of common tasks in `R`, including concatenation (`c()`), plotting (`plot()`, and `pch` argument), adding lines to a plot (`lines()`), using `R` to create sequences (`seq()`), creating custom plot windows (`par(mfrow=c(r,c))`), creating matrices (`matrix()`) and converting a matrix to a data frame (`as.data.frame()`). See below.
+This exercise will introduce you to a variety of common tasks in `R`, including concatenation (`c()`), plotting (`plot()`, and `pch` argument), adding lines to a plot (`lines()`), using `R` to create sequences (`seq()`), creating custom plot windows (`par(mfrow=c(r,c))`, where 'r' and 'c' refer to the number of desired rows versus columns of plots in the resulting graphic), creating matrices (`matrix()`), and converting a matrix to a data frame (`as.data.frame()`). See below.
 
 <!-- :computer:-->
 ```python
