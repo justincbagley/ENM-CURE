@@ -4,7 +4,7 @@ Justin C. Bagley, Ph.D.
 
 _Jacksonville State University_ (JSU)
 
-_Last update:_ 13 August 2021
+_Last update:_ 19 August 2021
 
 During Ecology Laboratory, we will walk through all of the main steps in using ecological niche modeling (ENM) to better understand the potential past, present, or future distributions of suitable habitat (niche conditions) for species (e.g., Elith et al., 2006; Peterson et al., 2011). Prior to getting into ENM and related analyses in detail, this first practical (equivalent to a computer/research exercise), Practical "00," is designed to give  you a chance to familiarize yourself with `R` (R Core Team 2020), the statistical computing environment that we will use for most of our ENM research.
 
@@ -81,7 +81,7 @@ Here is an image showing what your instructor's version of `RStudio` looks like,
 
 <!-- ![Alt text](./RStudio_white.png?raw=true "R logo (high-resolution PNG)") -->
 
-<img src="./RStudio_white.png" alt="RStudio (light mode)"
+<img src="../RStudio_white.png" alt="RStudio (light mode)"
 	title="Your Instructor's RStudio screen..." width="750" />
 <!-- https://github.com/justincbagley/ENM-CURE/blob/main/assets/RStudio_help_rnorm.png-->
 
