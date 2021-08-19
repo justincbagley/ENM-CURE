@@ -81,7 +81,7 @@ Here is an image showing what your instructor's version of `RStudio` looks like,
 
 <!-- ![Alt text](./RStudio_white.png?raw=true "R logo (high-resolution PNG)") -->
 
-<img src="../RStudio_white.png" alt="RStudio (light mode)"
+<img src="../assets/RStudio_white.png" alt="RStudio (light mode)"
 	title="Your Instructor's RStudio screen..." width="750" />
 <!-- https://github.com/justincbagley/ENM-CURE/blob/main/assets/RStudio_help_rnorm.png-->
 
