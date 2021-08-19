@@ -302,12 +302,17 @@ i
 plot(Fib ~ i, pch=19)
 lines(Fib ~ i)
 
-# For comparative purposes, here is an exponential growth/incr. equation (with an
-# arbitrary constant and y coerced to 0 when x=1), also starting at 0 and ending
-# at 34 in 10 steps (just like the Fibonacci sequence):
+# For comparative purposes, here is a similar series of numbers from an exponential 
+# growth/incr. equation (with an arbitrary constant and y coerced to 0 when x=1), which 
+# also starts at 0 and ends at 34 in 10 steps (just like the Fibonacci sequence):
 exp <- c(0, 0.66781584, 1.091478209, 1.783911985, 2.915625748, 4.765298722, 7.788404231, 12.72936788, 20.80487886, 34.003494)
 exp
 
+# We can make the comparison between these values visually by setting up a 3-panel 
+# plot using par(mfrow=c(<rows>,<columns>)), then running plot() three times, once for
+# each of the number series against the index, and a third time looking directly at 
+# the correlation between the series using a regression of Fibonacci numbers (on the
+# y-axis) against the exponential distribution numbers (on the x-axis), as follows:
 par(mfrow=c(1,3))
 plot(Fib ~ i, pch=19, col='black', main='Fibonacci')
 lines(Fib ~ i)
