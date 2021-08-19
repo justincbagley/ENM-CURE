@@ -18,8 +18,8 @@ During Ecology Laboratory, we will walk through all of the main steps in using e
 ## CONTENTS
 
 1. [R](#1-r)
- - 1.1. [Installation](#1-1-installation)
- - 1.2. [R Editor](#1-2-r-editor)
+ - 1.1. [Installation](#11-installation)
+ - 1.2. [R Editor](#12-r-editor)
 2. [R Basics](#2-r-basics)
  - 2.1. [Language, Data Structures, and Basic Operations](#21-language-data-structures-and-basic-operations)
  - 2.2. [Setting the Working Directory](#22-setting-the-working-directory)
